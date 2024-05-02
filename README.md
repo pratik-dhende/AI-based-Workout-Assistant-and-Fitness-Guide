@@ -2,7 +2,7 @@
 - Designed and implemented an AI-driven Workout Trainer, offering users visual and verbal guidance throughout their exercise routines.
 - Engineered a Diet Recommender System, providing tailored dietary suggestions based on user-provided calorie intake.
 - Webscraped the calories for the Kaggle Indian food dataset using Selenium Web driver to create a custom food dataset for the diet recommendation algorithm.
-- Authored and presented a scholarly paper on this innovative approach at the esteemed IEEE's [2022 6th International Conference on Computing Communication Control and Automation](https://ieeexplore.ieee.org//document//10010733).
+- Authored and presented a scholarly paper on this innovative approach at the esteemed IEEE's [2022 6th International Conference on Computing Communication Control and Automation](https://ieeexplore.ieee.org/xpl/conhome/10010701/proceeding).
 
 ## Publication
 [G. Taware, R. Kharat, P. Dhende, P. Jondhalekar and R. Agrawal, "AI-Based Workout Assistant and Fitness Guide," 2022 6th International Conference On Computing, Communication, Control And Automation (ICCUBEA), Pune, India, 2022, pp. 1-4, doi: 10.1109/ICCUBEA54992.2022.10010733.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10010733&isnumber=10010578) <br>
@@ -20,7 +20,7 @@ Health and Fitness play a vital role in our day-today life. This can be attained
 ## AI Flow Diagram
 ![ModelDiagram](https://github.com/pratik-dhende/AI-based-Workout-Assistant-and-Fitness-Guide/assets/55596801/c1b0912f-993f-481a-a62f-f412faed33df)
 
-## Technological Stack
+## Technology Stack
 - AI
   - Mediapipe 
 - Web
