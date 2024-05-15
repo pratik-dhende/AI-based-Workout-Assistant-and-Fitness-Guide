@@ -1,4 +1,4 @@
-# AI-based-Workout-Assistant-and-Fitness-Guide 
+# AI based Workout Assistant and Fitness Guide 
 - Designed and implemented an AI-driven Workout Trainer, offering users visual and verbal guidance throughout their exercise routines.
 - Engineered a Diet Recommender System, providing tailored dietary suggestions based on user-provided calorie intake.
 - Webscraped the calories for the Kaggle Indian food dataset using Selenium Web driver to create a custom food dataset for the diet recommendation algorithm.
